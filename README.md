@@ -10,7 +10,7 @@ Data was sourced from www.kaggle.com and was updated a year ago. This data shows
 
 # Data Features
 
-Some features not relevant to our study were dropped from the original data set and included: 'PolicyNumber', 'RepNumber, 'Days_Policy_Claim', 'Days_Policy_Accident', 'Make','NumberOfSuppliments', 'DriverRating', 'PolicyType'. 
+Some features not relevant to our study were dropped from the original data set and included: 'PolicyNumber', 'RepNumber, 'Days_Policy_Claim', 'Days_Policy_Accident', 'Make','NumberOfSuppliments', 'DriverRating', 'PolicyType', 'AgentType'. 
 
 'Month': Month of year when the accident happened
 'WeekOfMonth': Week of month when the accidennt happened
@@ -33,14 +33,21 @@ Some features not relevant to our study were dropped from the original data set 
 'Age': age of policy number 
 'PoliceReportFiled': Wether a police report where filed or not
 'WitnessPresent': Wether a witness was present 
-## 'AgentType': 
 'AddressChange_Claim': whether the policy holder changed a
 'NumberOfCars': Number of cars under policy holder 
 'BasePolicy': Type of coverage hold by policy holder
   
-
+  
 # Possible Machine Models
 
-
+Linear Regression
+Random Forest
+PCA
+neural network
 
 # Results and Summary of the application
+
+Linear Regression
+Random Forest
+PCA
+neural network
