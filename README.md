@@ -41,13 +41,11 @@ Some features not relevant to our study were dropped from the original data set 
 # Possible Machine Models
 
 Linear Regression
-Random Forest
 PCA
 neural network
+KNN
+SVM
 
 # Results and Summary of the application
 
-Linear Regression
-Random Forest
-PCA
-neural network
+Models appear to have the same accuracy. More work needs to be done to be able to compare all the models used based on recalls.
